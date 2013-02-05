@@ -1,0 +1,14 @@
+timesheet.txt
+MIRAI AKAGAWA 15-112 Term Project
+
+Estimate Total Hours: 51 hours
+
+Weekly Breakdown:
+
+Week 9  : 2
+Week 10 : 3
+Week 11 : 8
+Week 12 : 8
+Week 13 : 6
+Week 14 : 12
+Week 15 : 12 
